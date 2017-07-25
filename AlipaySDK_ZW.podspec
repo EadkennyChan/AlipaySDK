@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'AlipaySDK'
+  s.name             = 'AlipaySDK_ZW'
   s.version          = '0.0.1'
   s.summary          = '支付宝支付SDK.'
 
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-支付宝支付SDK.
+支付宝支付SDK,第三方SDK.
                        DESC
 
   s.homepage         = 'https://github.com/EadkennyChan'
